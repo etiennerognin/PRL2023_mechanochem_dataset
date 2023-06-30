@@ -1,0 +1,7 @@
+matplotlib==3.0.3
+matplotlib-inline==0.1.2
+numpy==1.21.5
+scipy==1.7.3
+tqdm==4.62.3
+widgetsnbextension==3.5.1
+ipywidgets==7.6.3

@@ -1,0 +1,1 @@
+{"model": "KramersChainEVHI", "n_links": 1000, "n_ensemble": 16, "dt": 0.01, "write_interval": 1, "n_proc": 16, "compute date": "2023-02-13 11:32:34", "compute cost": "0:13:32.072368"}

@@ -1,0 +1,1 @@
+{"model": "AdaptiveKramersChain", "n_links": 1000, "n_ensemble": 1000, "dt": 0.01, "write_interval": 100, "n_proc": 16, "compute date": "2023-02-01 04:44:11", "compute cost": "1 day, 17:27:07.037737"}
