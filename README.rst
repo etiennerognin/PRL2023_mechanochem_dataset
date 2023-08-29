@@ -34,7 +34,7 @@ Installation
 ------------
 In the target directory, clone this repository::
 
-  git clone https://github.com/etiennerognin/PRL2023_mechanochem_dataset.git
+  git clone https://github.com/etiennerognin/flowmechanochem_dataset.git
 
 
 Usage
