@@ -40,6 +40,15 @@ for each simulation file. This dictionary contains the following labels:
 Note that the bead-rod algorithm and dimension normalization are described in a
 previous study (see Rognin et al. https://www.repository.cam.ac.uk/bitstream/1810/279443/1/multiscale_revision_clean.pdf)
 
+Other
+^^^^^
+
+The notebook ``JHTD_turbulence.ipynb`` has been used to extract data from the
+Johns Hopkins Turbulence Databases and is provided here for illustrative
+purposes only (it is not necessary to run this file).
+
+
+
 
 License
 -------
@@ -59,4 +68,5 @@ Usage
 -----
 
 Run the notebook ``Supporting information.ipynb`` (you will need to have
-Jupyter installed, see https://jupyter.org/)
+Jupyter installed, see https://jupyter.org/). The Python distribution will need
+to have packages listed in ``requirements.txt``.
