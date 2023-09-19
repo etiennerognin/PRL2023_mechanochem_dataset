@@ -1,7 +1,7 @@
 Supporting information and dataset for the paper "Theory of flow-induced covalent polymer mechanochemistry in dilute solutions"
 ===============================================================================================================================
 
-This is the dataset and software supporting the study Theory of flow-induced
+This is the dataset and software supporting the study *Theory of flow-induced
 covalent polymer mechanochemistry in dilute solutions*
 by Etienne Rognin, Niamh Willis-Fox, Ronan Daly, Institute for Manufacturing,
 Department of Engineering, University of Cambridge, 17 Charles Babbage Road,
