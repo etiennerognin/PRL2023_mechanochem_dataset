@@ -27,15 +27,15 @@ The folder ``bead-rod_dataset`` contains the results of bead-rod model simulatio
 For each simulation there is binary Python ``.npz`` file containing the data, and
 a text ``.json`` file containing metadata (such as date of the simulation, parameters...)
 
-The data is imported using `np.load` function which creates a Python dictionary
+The data is imported using ``np.load`` function which creates a Python dictionary
 for each simulation file. This dictionary contains the following labels:
 
 1. ``t`` the time axis.
 2. ``gradU`` the time series of velocity gradients used as forcing terms in the bead-rod simulation.
 3. ``g_max`` the time series of the maximum tensile force, for each molecule of the simulation ensemble.
 4. ``i_max`` the time series of the positions of the maximum force in the chain (not used in this study)
-3. ``g_12`` the time series of the tensile force at the center of the chain, for each molecule.
-4. ``A_average`` the time series of the average conformation tensor (second-order moment of the end-to-end vector). Used in section 4 for model validation.
+5. ``g_12`` the time series of the tensile force at the center of the chain, for each molecule.
+6. ``A_average`` the time series of the average conformation tensor (second-order moment of the end-to-end vector). Used in section 4 for model validation.
 
 Note that the bead-rod algorithm and dimension normalization are described in a
 previous study (see Rognin et al. https://www.repository.cam.ac.uk/bitstream/1810/279443/1/multiscale_revision_clean.pdf)
